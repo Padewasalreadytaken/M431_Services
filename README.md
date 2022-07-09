@@ -6,12 +6,12 @@ Aufträge im eigenen Berufsumfeld selbstständig durchführen/ Website
 
 ## IPERKA
 
-[I-Informieren](01-Informieren)
-[P-Planen](02-Planen)
-[E-Entscheiden](03-Entscheiden)
-[R-Realisieren](04-Realisieren)
-[K-Kontrollieren](05-Kontrollieren)
-[A-Auswerten](06-Auswerten)
+[I-Informieren](01-Informieren)<br>
+[P-Planen](02-Planen)<br>
+[E-Entscheiden](03-Entscheiden)<br>
+[R-Realisieren](04-Realisieren)<br>
+[K-Kontrollieren](05-Kontrollieren)<br>
+[A-Auswerten](06-Auswerten)<br>
 
 ## I-Informieren
 
