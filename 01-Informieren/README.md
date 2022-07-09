@@ -2,14 +2,12 @@
 
 Die Idee zum Projekt bekam ich als ich meinen Cheff überhört, wie er mal ausprobieren will die Cloud Lösung welche wir unseren Kunden verkaufen, bei uns im Geschäft implementieren möchte.
 
-## Projektauftrag:
-
 ## Projektinhalt
 Eine Datenstruktur mit der Cloudlösung Sharepoint von Microsoft.
 Jene Datenstruktur wird für die Firma Comworld und die Familie des CEO’s entwickelt.
 Für eine weitere Stufe der Sicherheit der Daten wird ein Backup auf dem Synology Nas der Firma Comworld eingerichtet welche Regelmässig und automatisch durchgeführt wird.
 
-### Projektumfeld
+## Projektumfeld
 Da bei der Firma Comworld Nas und die nötigen Microsoft 365 Pläne schon vorhanden sind muss man keine Umwege gehen und noch Spezifisches Finanzieren.
 
 ## Geplante Termine
