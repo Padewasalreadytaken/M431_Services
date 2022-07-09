@@ -1,4 +1,4 @@
-# .Informieren
+# Informieren
 
 Die Idee zum Projekt bekam ich als ich meinen Cheff überhört, wie er mal ausprobieren will die Cloud Lösung welche wir unseren Kunden verkaufen, bei uns im Geschäft implementieren möchte.
 
