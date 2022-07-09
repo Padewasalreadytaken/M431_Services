@@ -13,7 +13,7 @@ Aufträge im eigenen Berufsumfeld selbstständig durchführen/ Website
 [K-Kontrollieren](05-Kontrollieren)<br>
 [A-Auswerten](06-Auswerten)<br>
 
-## I-Informieren
+## [I-Informieren](01-Informieren)
 
 Die Idee zum Projekt bekam ich als ich meinen Cheff überhört, wie er mal ausprobieren will die Cloud Lösung welche wir unseren Kunden verkaufen, bei uns im Geschäft implementieren möchte.
 
@@ -63,17 +63,17 @@ Projektleitung: Patrick Dillier<br>
 Finanzierung/Auftragsgeber: Willi Müller (CEO)<br>
 Beurteiler/Coach: Marcello Callisto
 
-## P-Planen
+## [P-Planen](02-Planen)
 In der Planung meines Projektes nahm ich mir das planungs Format GANTT als Grundlage 
 
-## E-Entscheiden
+## [E-Entscheiden](03-Entscheiden)
 
 
-## R-Realisieren
+## [R-Realisieren](04-Realisieren)
 
 
-## K-Kontrollieren 
+## [K-Kontrollieren](05-Kontrollieren)
 
 
-## A-Auswertung 
+## [A-Auswerten](06-Auswerten)
 
