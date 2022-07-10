@@ -23,10 +23,31 @@ Als Abschluss wird die Sharepoint Webseite und alle Daten noch auf das NAS der F
 
 ## Basis Struktur
 
-Nach einem Gespräch mit meinem Chef über die Struktur und die Berechtigungen entschieden wir uns auf etwas Simples.<br>
+Nach einem Gespräch mit meinem Chef über die Struktur und die Berechtigungen entschieden wir uns auf etwas Simples.
+<br>
+<br>
+
 ![Konzept](Konzeptt.jpg)<br>
 
 Verlangt war lediglich ein Root Ortner «Comworld» darunter 2 Ortner für angestellte «Patrick», «Kevin», einen für «Anleitungen», und einen «Projekte», wo wir einzelne Informationen für Kunden zwischenspeichern.<br>
 
 «Projekte» und «Anleitungen» sollten alle Zugriffe darauf haben.<br>
 Die Mitarbeiter Ordner sollten nur die Mitarbeiter zugriff haben 
+
+
+## Webseite 
+
+Zum Erstellen einer Sharepoint Webseite sollte man manche Einzelheiten vorbereitet haben.
+•	Einen Microsoft Account
+•	Office 365 Administration und Sharepoint Admin Rechte
+•	Knowhow
+
+Der erste schritt ist im Office 365 Admin Center eine Gruppe zu erstellen mit den verlangten Teilnehmern der Daten-Struktur.
+Danach folgt die Erstellung der Webseite selbst.
+Welche man im Sharepoint selbst macht.
+
+Der erste schritt ist somit auch der wichtigste.
+Ich habe mich dort für Teamwebseite entschieden.
+
+
+Dies sind meine einstellungen.
