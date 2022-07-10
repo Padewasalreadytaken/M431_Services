@@ -48,6 +48,7 @@ Welche man im Sharepoint selbst macht.
 
 Der erste schritt ist somit auch der wichtigste.
 Ich habe mich dort für Teamwebseite entschieden.
-
+![Website](Website.png)
 
 Dies sind meine einstellungen.
+![Website](Websitezusammenfassung.png)
