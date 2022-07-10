@@ -51,7 +51,7 @@ Der erste schritt ist somit auch der wichtigste.
 Ich habe mich dort für Teamwebseite entschieden.
 ![Website](Website.png)
 
-### Dies sind meine einstellungen.
+**Dies sind meine einstellungen.**
 ![Website](Websitezusammenfassung.png) 
 
 ## Datenstrucktur
@@ -63,6 +63,9 @@ Auf dem Root Ortner Comworld entferne ich alle Berechtigungen und füge die Grup
 
 Darunter folgt der Rest der Ortner.<br>
 Bei den beiden Ortner der Mitarbeiter entferne ich die Gruppe und füge die übereinstimmenden Nutzer per Mail hinzu.<br>
+
+### **Berechtigungen**
+![Berechtigungen](Ortner%20berechtigungen.png)
 
 ## Onedrive
 Nun kann man noch die Daten Struktur mit Onedrive verbinden.

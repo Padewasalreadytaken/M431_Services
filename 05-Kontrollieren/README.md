@@ -8,3 +8,6 @@ Im bereich Berechtigungen hat mein Chef voll zugriff auf alles.
 
 
 #### **Berechtigungen:**
+![Berechtigungen](Ortner%20berechtigungen.png)
+
+Das Obere zeigt das ich weder noch zugriff noch einsicht auf den Ortner Kevin habe
