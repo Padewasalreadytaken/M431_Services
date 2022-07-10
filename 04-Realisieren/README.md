@@ -2,7 +2,9 @@
 * [Einführung](#einführung) 
 * [Basis Struktur](#basis-struktur)
 * [Website](#webseite)
-* []
+* [Datenstrucktur](#datenstrucktur)
+* [Onedrive](#onedrive)
+* [Backup](#backup)
 
 ## Einführung 
 
@@ -24,7 +26,6 @@ Als Abschluss wird die Sharepoint Webseite und alle Daten noch auf das NAS der F
 ## Basis Struktur
 
 Nach einem Gespräch mit meinem Chef über die Struktur und die Berechtigungen entschieden wir uns auf etwas Simples.
-<br>
 <br>
 
 ![Konzept](Konzeptt.jpg)<br>
@@ -65,3 +66,14 @@ Bei den beiden Ortner der Mitarbeiter entferne ich die Gruppe und füge die übe
 
 ## Onedrive
 Nun kann man noch die Daten Struktur mit Onedrive verbinden.
+![Onedrive](Onedrive.png)
+
+## Backup
+
+Das Backup wurde auf das Synology Nas der Firma Comworld gespeichert. 
+Da Synology eine eingebaute Funktion hat Office 365 Domänen zu Sichern und ich das ganze Projekt bis hin mit der @comworld.ch Domäne ausgeführt habe, sicherte ich die Website über das eingebaute Tool auf dem Nas.
+Eine Anleitung dazu bietet Synology selbst an.
+
+[Anleitung die ich nutzte](https://kb.synology.com/de-de/DSM/tutorial/How_to_register_an_Azure_AD_app_M365)<br>
+[Neuere Anleitung](https://kb.synology.com/de-de/DSM/tutorial/Quick_Start_Active_Backup_for_Microsoft_365)
+
