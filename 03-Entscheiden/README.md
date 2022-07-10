@@ -10,3 +10,8 @@ Je nach Kriterium kann es eine Gewisse Gewichtung haben was so zusagen die Wicht
 Es wird dann eine Punktezahl vergeben wie sehr das Kriterium der, in meinem Fall, Cloud zusteht.
 Gewicht und Punktestand wird dann multipliziert zu einem Total. 
 Alle Totale werden dann addiert, um am Schluss das Ergebnis zu erhalten.<br>
+Hier ein bild meiner Nutzwertanalyse
+
+![Nutzwertanalyse](Nutzwert.png)
+
+## Wahl
