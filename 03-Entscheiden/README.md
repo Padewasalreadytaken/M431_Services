@@ -15,3 +15,7 @@ Hier ein bild meiner Nutzwertanalyse
 ![Nutzwertanalyse](Nutzwert.png)
 
 ## Wahl
+
+Durch eine schon bestehende Infrastruktur und ein gewisses Knowhow an meiner Arbeitsstelle viel die Entscheidung in Richtung Sharepoint.<br>
+Ebenfalls war die Auftrag Stellung explizit mit Sharepoint zu lösen also konnte ich schlecht eine Planänderung durchführen.<br>
+Ich bin damit zufrieden, weil ich dies nun als gute Übung nehmen kann da unsere Kunden immer mehr eine Solche Lösung verlangen.
