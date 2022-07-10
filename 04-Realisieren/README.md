@@ -25,3 +25,8 @@ Als Abschluss wird die Sharepoint Webseite und alle Daten noch auf das NAS der F
 
 Nach einem Gespräch mit meinem Chef über die Struktur und die Berechtigungen entschieden wir uns auf etwas Simples.<br>
 ![Konzept](Konzeptt.jpg)<br>
+
+Verlangt war lediglich ein Root Ortner «Comworld» darunter 2 Ortner für angestellte «Patrick», «Kevin», einen für «Anleitungen», und einen «Projekte», wo wir einzelne Informationen für Kunden zwischenspeichern.<br>
+
+«Projekte» und «Anleitungen» sollten alle Zugriffe darauf haben.<br>
+Die Mitarbeiter Ordner sollten nur die Mitarbeiter zugriff haben 
