@@ -51,14 +51,17 @@ Ich habe mich dort für Teamwebseite entschieden.
 ![Website](Website.png)
 
 ### Dies sind meine einstellungen.
-![Website](Websitezusammenfassung.png)
+![Website](Websitezusammenfassung.png) 
 
 ## Datenstrucktur
 
 Dass erstellen der Daten Struktur ist von hier aus keine grosse Sache mehr da von hier aus die Ortner Per GUI erstellbar sind.<br>
 Auf dem Root Ortner Comworld entferne ich alle Berechtigungen und füge die Gruppe hinzu die ich Office 365 Admin Center erstellt habe.<br>
 
+![Gruppen](Gruppen.png)<br>
+
 Darunter folgt der Rest der Ortner.<br>
 Bei den beiden Ortner der Mitarbeiter entferne ich die Gruppe und füge die übereinstimmenden Nutzer per Mail hinzu.<br>
 
-Nun kann man noch die Daten Struktur mit Onedrive verbinden
+## Onedrive
+Nun kann man noch die Daten Struktur mit Onedrive verbinden.
